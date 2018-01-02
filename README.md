@@ -1,0 +1,2 @@
+# staedy
+firefox
